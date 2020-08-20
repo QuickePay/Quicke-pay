@@ -236,4 +236,64 @@
     #global{
         width: 100%;
     }
+    
+    #muchotexto{
+        font-size:smaller;
+    }
+
+    #myCarousel{
+        margin-left:70px;
+    }
+
+    #tres{
+        margin-left: 5px;
+    }
+
+    #guro{
+        display: none;
+    }
+
+    .person{
+        width: 33%;
+        height: 33%;
+    }
+
+    #Nosotros{
+        height: 80%;
+    }
+    #dudas1{
+        display: none;
+    }
+    #sdudas1{
+        display: none;
+    }
+
+
+    #piedepagina{
+
+    background-color:#1B1464;
+    column-count: 1;
+    color: white;
+   font-family: 'Varela Round', sans-serif;
+    margin-top: 10px;
+    bottom: 0px;
+}
+#conmedio{
+    padding-top: 40px;
+    margin-left: 0px;
+}
+#texto1{
+    padding-top: 25px;
+    text-align: center;
+
+}
+
+#mapa{
+    display: none;
+    
+}
+
+#siguenos{
+    display: none;
+}
 }
