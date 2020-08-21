@@ -260,7 +260,16 @@
     #guro{
         display: none;
     }
+    
+    #Quien{
+        font-size:15px;
+        }
+    
+    #Servicios{
+        font-size:15px;
+        }
 
+    
     .person{
         width: 33%;
         height: 33%;
