@@ -13,6 +13,11 @@
     margin-top: 10px;
 
 }
+
+#b{
+  background-color: #1B1464;  
+}
+
 #myNavbar ul li a{
     color:#fff;
 
@@ -218,6 +223,7 @@
    font-family: 'Varela Round', sans-serif;
     margin-top: 10px;
     bottom: 0px;
+    width: 100%;
 }
 #conmedio{
     padding-top: 40px;
@@ -251,8 +257,6 @@
 
     #myCarousel{
         margin-left:0%;
-        width:300px;
-        height:300px;
     }
 
     #tres{
@@ -264,11 +268,11 @@
     }
     
     #Quien{
-        font-size:25px;
+        font-size:15px;
         }
     
     #Servicios{
-        font-size:25px;
+        font-size:15px;
         }
 
     
@@ -296,6 +300,7 @@
    font-family: 'Varela Round', sans-serif;
     margin-top: 10px;
     bottom: 0px;
+    width: 100%;
 }
 #conmedio{
     padding-top: 40px;
