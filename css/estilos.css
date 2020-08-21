@@ -181,6 +181,8 @@
 
     #myCarousel{
         margin-left:70px;
+        width:300px;
+        height:300px;
     }
 
     #tres{
