@@ -187,7 +187,11 @@
     }
     
     #Quien{
-        font-size:medium;
+        font-size:25px;
+        }
+    
+    #Servicios{
+        font-size:25px;
         }
 
     .person{
