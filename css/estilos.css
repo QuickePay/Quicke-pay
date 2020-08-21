@@ -185,6 +185,10 @@
     #guro{
         display: none;
     }
+    
+    #Quien{
+        font-size:medium;
+        }
 
     .person{
         width: 33%;
